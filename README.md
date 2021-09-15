@@ -15,4 +15,4 @@ This command will check the temperature and humidity through the sensor module i
 ![Raspberry setup 2](https://i.imgur.com/8XdJw7L.jpg)
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/jvicensfarrus/telegram-bot-raspberry/blob/main/LICENSE)
