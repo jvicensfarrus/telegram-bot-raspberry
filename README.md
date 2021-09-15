@@ -1,7 +1,7 @@
 # telegram-bot-raspberry
 Simple program made in python that will make the raspberry do certain functionalities upon command.
 
-The functionalities at the moment are two
+The functionalities at the moment are two:
 
 ## Capture a photo
 This command will capture a photo from the camera module in the raspberry. Will capture two photos, one brighter and the other more darker and send them to your telegram conversation with the bot.
