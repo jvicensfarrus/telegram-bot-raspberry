@@ -13,3 +13,6 @@ This command will check the temperature and humidity through the sensor module i
 
 ![Raspberry setup 1](https://i.imgur.com/k7XGeXf.jpg)
 ![Raspberry setup 2](https://i.imgur.com/8XdJw7L.jpg)
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
